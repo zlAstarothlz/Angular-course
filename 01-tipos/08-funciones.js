@@ -7,3 +7,4 @@ function suma (a,b)
 resultado = suma(1,2);
 console.log(resultado);
 
+resultado = resultado + 2 ;
